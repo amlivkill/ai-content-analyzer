@@ -1,11 +1,7 @@
 import streamlit as st
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
-import PyPDF2
-import io
-import chardet
-
+# Rest of the simple code...
 # Page configuration
 st.set_page_config(
     page_title="URL Scraper & File Analyzer",
